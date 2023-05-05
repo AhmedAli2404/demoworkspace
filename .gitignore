@@ -1,0 +1,5 @@
+venv
+.conda
+Project1.egg-info
+dist
+build
